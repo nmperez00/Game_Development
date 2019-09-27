@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - Projectile
+  - Enemy
+  - Ground
+  - Health
+  - Music
+  - HealthPack
+  - Lives
+  - KeepObject
+  - Toggle
+  - Temp
+  - Slider
+  - Cloud
+  - Exit
+  - Message
+  - Navigate
+  - Coin
+  - SoundFX
+  - ToggleFX
+  - Timer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3930752903
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Priority
+    uniqueID: 2733460259
+    locked: 0
